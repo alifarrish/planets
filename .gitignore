@@ -3,3 +3,6 @@
 
 results 
 #Ignore all files in results directory
+
+!a.dat
+#Don't ignore a.dat
